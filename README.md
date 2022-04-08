@@ -41,6 +41,6 @@ Ice Climber->Block Climber 얼음을 블럭으로 바꿔서 진행하였습니�
 블럭 정상에 있는 우주선을 터치 할 시 다음스테이지로 이동합니다.
 
 
-##간단한 플레이
+## 간단한 플레이
 
 ![플레이-min (3)](https://user-images.githubusercontent.com/83604180/162367866-c2b4dfd2-29e3-4918-9d55-29cd93ee7398.gif)
